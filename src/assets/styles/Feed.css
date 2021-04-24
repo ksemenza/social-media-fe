@@ -1,0 +1,47 @@
+* {
+    border: 1px black dotted;
+}
+
+/***** Feed Container CSS *****/
+.inner-ctr{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 750px;
+       
+
+}
+
+
+/***** Post Comment CSS ****/
+
+
+
+/***** Post Container CSS ****/
+.post-ctr {
+    width: 100%;
+    border: blue 1px solid;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+}
+.post-inner-ctr {
+    width: 90%;
+    height: 100%;
+
+}
+
+
+/***** Post Feed CSS ****/
+
+
+
+/***** Post Reactions CSS ****/
+
+
+
+/***** Side Menu CSS ****/
+
+.side-menu-ctr {
+    width: 300px;
+}
